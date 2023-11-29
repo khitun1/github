@@ -1,4 +1,4 @@
-'reset'
+'reset123'
 const a = 42;
 const b = 43;
 const c = 44;
