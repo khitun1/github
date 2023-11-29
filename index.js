@@ -6,6 +6,7 @@ const d = 45;
 const e = 46;
 const tqst = 100;
 const master = 101;
+const first = 1;
 
 
 
