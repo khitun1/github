@@ -1,0 +1,7 @@
+name: first
+on: [workflow_dispatch]
+jobs:
+  Print:
+    runs-on: ubuntu-latest
+    steps: 
+      - run: echo "Hello"
