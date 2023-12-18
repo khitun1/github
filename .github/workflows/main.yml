@@ -6,3 +6,4 @@ jobs:
     steps:
       - name: first step
         run: echo Hello world!
+      - run: echo second print
