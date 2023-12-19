@@ -1,9 +1,0 @@
-name: first workflow
-on: [workflow_dispatch]
-jobs: 
-  Print:
-    runs-on: ubuntu-latest
-    steps:
-      - name: first step
-        run: echo Hello world!
-      - run: echo second print
