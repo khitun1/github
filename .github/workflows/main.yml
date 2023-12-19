@@ -1,0 +1,8 @@
+name: myself
+on: [workflow_dispatch]
+jobs:
+  First:
+    runs-on: ubuntu-latest
+    steps:
+      - name: log
+        run: echo Myself workflow
