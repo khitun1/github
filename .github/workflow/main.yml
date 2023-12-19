@@ -1,0 +1,8 @@
+name: local
+on: push
+jobs:
+  localJob:
+    runs-on: ubuntu-latest
+    steps:
+      - name: firstStep
+        run: echo Success!
